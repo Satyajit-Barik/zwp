@@ -28,7 +28,7 @@
     "512": "icons/zwp512.png",
     "1024": "icons/zwp1024.png"
   },
-  "author": "wtf@marcosvr.com",
+  "author": "Satyajit@kotaielectronics.com",
   "content_scripts": [
     {
       "js": [
